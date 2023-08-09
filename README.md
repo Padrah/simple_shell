@@ -1,2 +1,1 @@
-ALX simple shell
-Done by Patrick CHipungu
+ALX simple shell project
