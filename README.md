@@ -1,2 +1,2 @@
-# simple_shell
-0x16. C - Simple Shell
+ALX simple shell
+Done by Patrick CHipungu
